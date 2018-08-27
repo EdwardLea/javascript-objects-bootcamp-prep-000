@@ -4,3 +4,7 @@ function updatePlaylist (playlist, aristname, songname){
   playlist[aristname] = songname;
   return playlist;
 }
+
+function removeFromPlaylist (playlist, aristname){
+  
+}
