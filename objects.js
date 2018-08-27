@@ -1,4 +1,4 @@
-var playlist = {aristname1: "song title1", aristname2: "song title2"};
+const playlist = {aristname1: "song title1", aristname2: "song title2"};
 
 function updatePlaylist (playlist, aristname, songname){
   playlist[aristname] = songname;
