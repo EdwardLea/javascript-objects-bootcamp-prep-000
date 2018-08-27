@@ -1,0 +1,1 @@
+var playlist = {arist name1: 'song title1', arist name2: 'song title2'}
